@@ -1,0 +1,15 @@
+{
+  "name": "xyp-launcher",
+  "version": "2.0.0",
+  "private": true,
+  "description": "XyP Launcher: мобильный лаунчер для Minecraft Bedrock (Capacitor)",
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/app-launcher": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/filesystem": "latest",
+    "@capacitor/ios": "latest",
+    "@capacitor-community/file-opener": "latest"
+  }
+}

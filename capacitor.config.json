@@ -1,0 +1,9 @@
+{
+  "appId": "app.xyp.launcher",
+  "appName": "XyP Launcher",
+  "webDir": "www",
+  "backgroundColor": "#e9f0ed",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "versions": [
+    {
+      "id": "1.21.40",
+      "type": "release",
+      "size": 0,
+      "url": "https://example.com/replace-with-your-file-1.21.40.apk",
+      "note": "Замените адрес на файл, который вы вправе распространять"
+    },
+    {
+      "id": "1.20.80",
+      "type": "release",
+      "size": 0,
+      "url": "https://example.com/replace-with-your-file-1.20.80.apk",
+      "note": "size = размер файла в байтах (0, если не знаете)"
+    }
+  ]
+}
